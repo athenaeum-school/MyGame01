@@ -46,11 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Code\Interfaces\IState.cs" />
-     <Compile Include="Assets\Code\States\StartState.cs" />
-     <Compile Include="Assets\Code\States\StateCamera01.cs" />
-     <Compile Include="Assets\Code\States\StateCamera02.cs" />
-     <Compile Include="Assets\Code\States\StateManager.cs" />
+     <Compile Include="Assets\Code\Interfaces\ETatsi.cs" />
+     <Compile Include="Assets\Code\States\MngEtats.cs" />
+     <Compile Include="Assets\Code\States\StCmr01.cs" />
+     <Compile Include="Assets\Code\States\StCmr02.cs" />
+     <Compile Include="Assets\Code\States\StartEtats.cs" />
      <Compile Include="Assets\Scripts\GameData.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\PlayerView.cs" />
